@@ -1,0 +1,33 @@
+/* 
+*  Creado por TaniaPC
+*  6/23/2022
+*/ 
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.inicio {
+    background-color: rgb(239, 243, 241);
+    padding: 20px;
+    height: 100vh;
+    width: 100wh;
+}
+
+.acciones {
+    background-color: rgb(239, 243, 241);
+    padding: 20px;
+    display: none;
+    height: 100vh;
+    width: 100wh;
+}
+
+.footer{
+    background-color: rgb(49, 67, 120);
+
+}
+
+.letter{
+    font-size: larger;
+}
